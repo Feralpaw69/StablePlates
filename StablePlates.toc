@@ -1,0 +1,9 @@
+## Interface: 30300
+## Title: StablePlates
+## Notes: Works with TidyPlates and ElvUI nameplates. Calmer, tighter nameplate stacking that stays clickable. |cffffd100made by feralpaw|r
+## Author: feralpaw
+## Version: 1.06
+## OptionalDeps: TidyPlates, ElvUI
+## SavedVariables: StablePlatesDB
+
+StablePlates.lua
