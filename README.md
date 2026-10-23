@@ -1,5 +1,7 @@
 # StablePlates
 
+![StablePlates in-game screenshot](images/stableplates-example.png)
+
 > World of Warcraft **3.3.5a (WotLK)** addon · made by **feralpaw**
 
 Calmer, tighter nameplate stacking that stays clickable. Your target's nameplate stays where it is; new overlapping plates are pushed to the side.
